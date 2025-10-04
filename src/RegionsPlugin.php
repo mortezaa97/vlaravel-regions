@@ -6,12 +6,8 @@ namespace Mortezaa97\Sliders;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
-use Mortezaa97\Bookmarks\Filament\Resources\Bookmarks\BookmarkResource;
 use Mortezaa97\Regions\Filament\Resources\Counties\CountyResource;
 use Mortezaa97\Regions\Filament\Resources\Provinces\ProvinceResource;
-use Mortezaa97\Reviews\Filament;
-use Mortezaa97\Sliders\Filament\Resources\Sliders\SliderResource;
-use Mortezaa97\Sliders\Filament\Resources\Slides\SlideResource;
 
 class RegionsPlugin implements Plugin
 {

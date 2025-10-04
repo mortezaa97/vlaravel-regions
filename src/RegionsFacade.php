@@ -1,11 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Mortezaa97\Regions;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Mortezaa97\Regions\Skeleton\SkeletonClass
+ * @see Skeleton\SkeletonClass
  */
 class RegionsFacade extends Facade
 {
