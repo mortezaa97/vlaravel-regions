@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Mortezaa97\Regions\Models;
 
+use App\Models\User;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
